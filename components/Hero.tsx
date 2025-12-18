@@ -70,7 +70,7 @@ export default function Hero() {
               <ArrowRight className='w-4 h-4 group-hover:translate-x-1 transition-transform' />
             </a>
             <a
-              href='public/Fransi_CV.pdf'
+              href='/Fransi_CV.pdf'
               download='Fransi_CV.pdf'
               className='px-6 py-3 bg-white/5 text-white font-semibold rounded-lg border border-white/10 hover:bg-white/10 transition-colors flex items-center gap-2'
             >
